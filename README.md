@@ -1,4 +1,4 @@
-## Hello! I'm Erica Ribeiro!💻✨
+## Hi, I'm Erica Ribeiro!💻✨
 
 
 - I’m in my fifth semester of the Systems Analysis and Development undergraduate program.
