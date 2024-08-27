@@ -3,6 +3,7 @@
 
 - I’m in my fifth semester of the Systems Analysis and Development undergraduate program.
 - Currently, I am studying HTML, CSS (+Bootstrap), JavaScript (+JSON), CRUD, and Python.
+- I hold a certification in MySQL database management, as well as in both front-end and back-end programming logic.
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
