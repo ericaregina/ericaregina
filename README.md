@@ -2,7 +2,7 @@
 
 
 - I’m in my fifth semester of the Systems Analysis and Development undergraduate program.
-- Currently, I am studying HTML, CSS (+Bootstrap, Sass), JavaScript, CRUD, PHP and Python.
+- Currently, I am studying HTML, CSS (+Bootstrap, Sass), JavaScript, PHP and Python.
 - I hold a certification in MySQL database management, as well as in both front-end and back-end programming logic.
   
 <div style="display: inline_block"><br>
