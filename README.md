@@ -1,4 +1,4 @@
-## Hi, i'm Erica Ribeiro!💻✨
+## Hi, i'm Erica Ribeiro!💻💙
 
 
 I am a Systems Analysis and Development undergraduate student currently in my fifth semester, with a strong focus on mobile development using Flutter. I hold certifications in MySQL database management and possess a solid foundation in both front-end and back-end programming logic.
