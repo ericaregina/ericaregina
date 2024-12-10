@@ -20,10 +20,10 @@ I am a Systems Analysis and Development undergraduate student currently in my fi
 </div>
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaregina&layout=compact&theme=highcontrast)
 
 
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaregina)
+
