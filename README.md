@@ -1,7 +1,7 @@
 ## Hi, i'm Erica Ribeiro!
 
 
-I am a Systems Analysis and Development undergraduate student currently in my fifth semester, with a strong focus on mobile development using Flutter. I have also gained proficiency in React for building dynamic and responsive web applications. In addition to this, I hold certifications in MySQL database management and possess a solid foundation in both front-end and back-end programming logic.
+Focused on programming, especially front-end and mobile development. Currently studying React and Flutter to develop web interfaces and mobile applications. I am in the 5th semester of Systems Analysis and Development and have a solid foundation in relational databases. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaregina&layout=compact&theme=highcontrast)
 
