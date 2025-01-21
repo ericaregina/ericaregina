@@ -1,7 +1,5 @@
 ## Hi, i'm Erica Ribeiro!
-
-
-Focused on programming, especially front-end and mobile development. Currently studying React and Flutter to develop web interfaces and mobile applications. I am in the 5th semester of Systems Analysis and Development and have a solid foundation in relational databases. 
+ 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaregina&layout=compact&theme=highcontrast)
 
