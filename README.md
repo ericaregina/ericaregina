@@ -54,7 +54,7 @@ I’m a Systems Analysis and Development student with a focus on web and mobile 
 
 ## 📫 Reach Me At
 
-- [LinkedIn](www.linkedin.com/in/ericacomc)
+- [LinkedIn](https://www.linkedin.com/in/ericacomc/)
 - [Email](mailto:ribeiroericacomc@gmail.com)
 
 
