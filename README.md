@@ -46,7 +46,7 @@ I’m a Systems Analysis and Development student with a focus on web and mobile 
 
 - [Bellitiapelle.com.br](https://bellitiapelle.com.br/):  Website created for Dr. Clarice, fully customized to meet the client's needs.
 - [CristianDior](https://cristiandior.vercel.app/): Sales website inspired by Dior.
-- [INOVA](https://inovainfotech.com.br/): Fictional eBook sales website.
+- [inovainfotech.com.br/](https://inovainfotech.com.br/): Fictional eBook sales website.
 - [EricaBeauty](https://ericabeauty.vercel.app/): Aesthetic services website with appointment scheduling.
 - [Portfolio](https://ericaribeiro-wheat.vercel.app/): My personal presentation portfolio.
 
