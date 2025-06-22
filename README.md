@@ -33,6 +33,7 @@ I’m a Systems Analysis and Development student with a focus on web and mobile 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![React Native](https://img.shields.io/badge/-ReactNative-20232A?logo=react&logoColor=61DAFB&style=flat)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
 
 
 **Databases:**  
