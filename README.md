@@ -39,7 +39,7 @@ I’m a Systems Analysis and Development student with a focus on web and mobile 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-
+![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?logo=node.js&logoColor=white&style=flat)
 
 ---
 
