@@ -7,7 +7,7 @@
 </div>
 
 
-I’m a Systems Analysis and Development student with a focus on web and mobile development. I have experience with HTML5 / CSS3, Flutter, React, Material UI, Jest, Node.js, Express.js, TypeScript, JavaScript, MySQL, Tailwind, and Bootstrap.
+I’m a Systems Analysis and Development student with a focus on web and mobile development. I have experience with HTML5 / CSS3, Flutter, React, Material UI, Jest, Node.js, Express.js, Next.js, Angular,TypeScript, JavaScript, MySQL, Tailwind, and Bootstrap.
 
 ---
   
