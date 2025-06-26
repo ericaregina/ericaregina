@@ -11,14 +11,14 @@ I’m a Systems Analysis and Development student with a focus on web and mobile 
 
 ---
   
-## 💼 What I Do
+##  What I Do
 
-- 💻 Frontend Web and Mobile (HTML, CSS, Tailwind, JavaScript, React, Flutter, MySQL, Postman)
-- 🎓 Currently studying Systems Analysis and Development with a solid foundation in programming logic, data structures, systems analysis, object-oriented programming, software architecture, and other core concepts.
+-  Frontend Web and Mobile (HTML, CSS, Tailwind, JavaScript, React, Flutter, MySQL, Postman)
+-  Currently studying Systems Analysis and Development with a solid foundation in programming logic, data structures, systems analysis, object-oriented programming, software architecture, and other core concepts.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -43,7 +43,7 @@ I’m a Systems Analysis and Development student with a focus on web and mobile 
 
 ---
 
-## 🧰 Projects
+##  Projects
 
 - [Bellitiapelle.com.br](https://bellitiapelle.com.br/):  Website created for Dr. Clarice, fully customized to meet the client's needs.
 - [CristianDior](https://cristiandior.vercel.app/): Sales website inspired by Dior.
@@ -53,7 +53,7 @@ I’m a Systems Analysis and Development student with a focus on web and mobile 
 
 ---
 
-## 📫 Reach Me At
+##  Reach Me At
 
 - [LinkedIn](https://www.linkedin.com/in/ericacomc/)
 - [Email](mailto:ribeiroericacomc@gmail.com)
