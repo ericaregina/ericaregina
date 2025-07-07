@@ -13,7 +13,7 @@ I’m a Systems Analysis and Development student with a focus on web and mobile 
   
 ##  What I Do
 
--  Frontend Web and Mobile (HTML, CSS, Tailwind, JavaScript, React, Flutter, MySQL, Postman)
+-  Frontend Web and Mobile (HTML, CSS, Tailwind, JavaScript + Frameworks, React, Flutter, MySQL, Postman)
 -  Currently studying Systems Analysis and Development with a solid foundation in programming logic, data structures, systems analysis, object-oriented programming, software architecture, and other core concepts.
 
 ---
