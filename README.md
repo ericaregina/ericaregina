@@ -54,7 +54,7 @@ https://ericaribeiro-wheat.vercel.app/
 → Personal portfolio with my projects and skills.
 
 🔗 **Apple Sales Dashboard**  
-https://dashboardapple.vercel.app/
+https://dashboardapple.vercel.app    
 → Interactive dashboard with simulated sales data, focused on data visualization and user experience.).
 
 
