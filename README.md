@@ -55,7 +55,7 @@ https://ericaribeiro-wheat.vercel.app/
 
 🔗 **Apple Sales Dashboard**  
 https://dashboardapple.vercel.app    
-→ Interactive dashboard with simulated sales data, focused on data visualization and user experience.).
+→ Interactive dashboard with simulated sales data, focused on data visualization and user experience.
 
 
 🔗 **Inova Infotech**  
