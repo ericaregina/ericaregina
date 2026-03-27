@@ -64,6 +64,14 @@ I also use Python for data analysis, dataframe manipulation, and data visualizat
   <img src="https://skillicons.dev/icons?i=mysql,postman,git" />
 </p>
 
+### 📊 Data & BI
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/DAX-0C3C78?style=flat&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
+</p>
+
 ---
 
 ## 🌐 Projects
