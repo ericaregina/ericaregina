@@ -1,63 +1,111 @@
 <div align="center">
 
-## Welcome, I'm Erica Ribeiro!
+# 👋 Hi, I'm Erica Ribeiro
 
+### 💻 Systems Analysis and Development Graduate  
+### 🚀 Web, Mobile & Data Developer  
 
 </div>
 
-
-I’m a Systems Analysis and Development student with a focus on web and mobile development. I have experience with HTML5 / CSS3, Flutter, React, Material UI, Jest, Node.js, Express.js, Next.js, Angular,TypeScript, JavaScript, MySQL, Tailwind, and Bootstrap.
-
----
-  
-##  What I Do
-
--  Frontend Web and Mobile (HTML, CSS, Tailwind, JavaScript + Frameworks, React, Flutter, MySQL, Postman)
--  Currently studying Systems Analysis and Development with a solid foundation in programming logic, data structures, systems analysis, object-oriented programming, software architecture, and other core concepts.
-
 ---
 
-##  Tech Stack
+## ✨ About Me
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)
+Graduated in Systems Analysis and Development, I focus on building modern web and mobile applications, as well as working with software testing.
 
-**Frameworks & Libraries:**  
-![Material UI](https://img.shields.io/badge/-MaterialUI-0081CB?logo=mui&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![React Native](https://img.shields.io/badge/-ReactNative-20232A?logo=react&logoColor=61DAFB&style=flat)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
+I have experience with HTML, CSS, Tailwind, JavaScript, MySQL, and API integration, and have developed projects using frameworks such as React.js, Node.js, and Express.js.
 
+I use Git for version control and am familiar with agile methodologies such as Scrum and Kanban. I also have experience with manual and automated testing using Jest and Cypress, along with QA practices using Eclipse IDE.
 
-**Databases:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-8CC84B?logo=node.js&logoColor=white&style=flat)
+Additionally, I continuously develop my skills in Data Analysis, working with Power BI (Desktop and Service), Power Query, and Metabase to transform, model, and present data efficiently.
+
+I have experience with SQL, DAX, ETL processes, API integrations, databases, and Power Automate, enabling automation and effective reporting solutions.
+
+I also use Python for data analysis, dataframe manipulation, and data visualization, supporting decision-making through dynamic and intelligent analytical solutions.
 
 ---
 
-##  Projects
+## 🚀 What I Do
 
-- [Bellitiapelle.com.br](https://bellitiapelle.com.br/):  Website created for Dr. Clarice, fully customized to meet the client's needs.
-- [CristianDior](https://cristiandior.vercel.app/): Sales website inspired by Dior.
-- [inovainfotech.com.br](https://inovainfotech.com.br/): eBook Sales Website.
-- [EricaBeauty](https://ericabeauty.vercel.app/): Aesthetic services website with appointment scheduling.
-- [Portfolio](https://ericaribeiro-wheat.vercel.app/): My personal presentation portfolio.
+💡 **Development**  
+- Frontend & Mobile (HTML, CSS, Tailwind, JavaScript, React, Flutter)  
+- Backend (Node.js, Express.js, API Integration)  
+
+🧪 **Quality Assurance**  
+- Manual and Automated Testing (Jest, Cypress)  
+- QA Practices and Test Validation  
+
+📊 **Data & Analytics**  
+- Power BI, Power Query, Metabase  
+- SQL, DAX, ETL  
+- Python for Data Analysis  
 
 ---
 
-##  Reach Me At
+## 🧠 Tech Stack
 
-- [LinkedIn](https://www.linkedin.com/in/ericacomc/)
-- [Email](mailto:ribeiroericacomc@gmail.com)
+### 👩‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,python" />
+</p>
 
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,flutter,vue,nodejs,express" />
+</p>
 
+### 🎨 Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
+</p>
 
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postman,git" />
+</p>
 
+---
 
+## 🌐 Projects
+
+🔗 **Bellitiapelle**  
+https://bellitiapelle.com.br/  
+→ Website developed for a real client, fully customized.
+
+🔗 **Cristian Dior**  
+https://cristiandior.vercel.app/  
+→ E-commerce inspired by Dior.
+
+🔗 **Inova Infotech**  
+https://inovainfotech.com.br/  
+→ Digital product (eBook) sales page.
+
+🔗 **Erica Beauty**  
+https://ericabeauty.vercel.app/  
+→ Aesthetic services website with scheduling system.
+
+🔗 **My Portfolio**  
+https://ericaribeiro-wheat.vercel.app/  
+→ Personal portfolio with my projects and skills.
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ericacomc/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ribeiroericacomc@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+✨ Always learning, building, and improving.
+
+</div>
