@@ -42,6 +42,30 @@ I also use Python for data analysis, dataframe manipulation, and data visualizat
 
 ---
 
+
+## 🌐 Projects
+
+🔗 **Bellitiapelle**  
+https://bellitiapelle.com.br/  
+→ Website developed for a real client, fully customized.
+
+🔗 **My Portfolio**  
+https://ericaribeiro-wheat.vercel.app/  
+→ Personal portfolio with my projects and skills.
+
+🔗 **Apple Sales Dashboard**  
+dashboardapple.vercel.app/  
+→ Interactive dashboard with simulated sales data, focused on data visualization and user experience.).
+
+
+🔗 **Inova Infotech**  
+https://inovainfotech.com.br/  
+→ Digital product (eBook) sales page.
+
+
+
+---
+
 ## 🧠 Tech Stack
 
 ### 👩‍💻 Languages
@@ -72,31 +96,7 @@ I also use Python for data analysis, dataframe manipulation, and data visualizat
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
 </p>
 
----
 
-## 🌐 Projects
-
-🔗 **Bellitiapelle**  
-https://bellitiapelle.com.br/  
-→ Website developed for a real client, fully customized.
-
-🔗 **Cristian Dior**  
-https://cristiandior.vercel.app/  
-→ E-commerce inspired by Dior.
-
-🔗 **Inova Infotech**  
-https://inovainfotech.com.br/  
-→ Digital product (eBook) sales page.
-
-🔗 **Erica Beauty**  
-https://ericabeauty.vercel.app/  
-→ Aesthetic services website with scheduling system.
-
-🔗 **My Portfolio**  
-https://ericaribeiro-wheat.vercel.app/  
-→ Personal portfolio with my projects and skills.
-
----
 
 ## 📫 Contact Me
 
