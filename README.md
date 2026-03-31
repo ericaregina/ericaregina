@@ -1,94 +1,71 @@
 <div align="center">
 
-# 👋 Hi, I'm Erica Ribeiro
+# Erica Ribeiro
 
-### 💻 Systems Analysis and Development Graduate  
-### 🚀 Web, Mobile & Data Developer  
+Graduada em Análise e Desenvolvimento de Sistemas  
+Desenvolvimento Web · Mobile · Dados
 
 </div>
 
 ---
 
-## ✨ About Me
+### Sobre mim
 
-Graduated in Systems Analysis and Development, I focus on building modern web and mobile applications, as well as working with software testing.
+Graduada em Análise e Desenvolvimento de Sistemas, atuo no desenvolvimento de aplicações web e mobile modernas e em testes de software.
 
-I have experience with HTML, CSS, Tailwind, JavaScript, MySQL, and API integration, and have developed projects using frameworks such as React.js, Node.js, and Express.js.
+Tenho experiência com HTML, CSS, Tailwind, JavaScript, MySQL e integração de APIs, com projetos desenvolvidos em React.js, Node.js e Express.js. Utilizo Git para controle de versão e trabalho com metodologias ágeis como Scrum e Kanban.
 
-I use Git for version control and am familiar with agile methodologies such as Scrum and Kanban. I also have experience with manual and automated testing using Jest and Cypress, along with QA practices using Eclipse IDE.
+Na área de qualidade, atuo com testes manuais e automatizados usando Jest e Cypress, com práticas de QA e validação utilizando Eclipse IDE.
 
-Additionally, I continuously develop my skills in Data Analysis, working with Power BI (Desktop and Service), Power Query, and Metabase to transform, model, and present data efficiently.
-
-I have experience with SQL, DAX, ETL processes, API integrations, databases, and Power Automate, enabling automation and effective reporting solutions.
-
-I also use Python for data analysis, dataframe manipulation, and data visualization, supporting decision-making through dynamic and intelligent analytical solutions.
+Desenvolvo continuamente minhas habilidades em Análise de Dados, trabalhando com Power BI, Power Query e Metabase para transformar e apresentar dados com eficiência. Tenho experiência com SQL, DAX, ETL, Power Automate e Python para análise e visualização de dados.
 
 ---
 
-## 🚀 What I Do
+### O que faço
 
-💡 **Development**  
-- Frontend & Mobile (HTML, CSS, Tailwind, JavaScript, React, Flutter)  
-- Backend (Node.js, Express.js, API Integration)  
+**Desenvolvimento**  
+Frontend & Mobile — HTML, CSS, Tailwind, JavaScript, React, Flutter  
+Backend — Node.js, Express.js, integração de APIs
 
-🧪 **Quality Assurance**  
-- Manual and Automated Testing (Jest, Cypress)  
-- QA Practices and Test Validation  
+**Qualidade de Software**  
+Testes manuais e automatizados com Jest e Cypress  
+Práticas de QA e validação de testes
 
-📊 **Data & Analytics**  
-- Power BI, Power Query, Metabase  
-- SQL, DAX, ETL  
-- Python for Data Analysis  
+**Dados & Analytics**  
+Power BI · Power Query · Metabase · SQL · DAX · ETL · Python
 
 ---
 
+### Projetos
 
-## 🌐 Projects
+**Bellitiapelle** — [bellitiapelle.com.br](https://bellitiapelle.com.br/)  
+Site desenvolvido para cliente real, totalmente personalizado.
 
-🔗 **Bellitiapelle**  
-https://bellitiapelle.com.br/  
-→ Website developed for a real client, fully customized.
+**Portfólio** — [ericaribeiro-wheat.vercel.app](https://ericaribeiro-wheat.vercel.app/)  
+Portfólio pessoal com projetos e habilidades.
 
-🔗 **My Portfolio**  
-https://ericaribeiro-wheat.vercel.app/  
-→ Personal portfolio with my projects and skills.
+**Apple Sales Dashboard** — [dashboardapple.vercel.app](https://dashboardapple.vercel.app)  
+Dashboard interativo com dados de vendas simulados, focado em visualização e experiência do usuário.
 
-🔗 **Apple Sales Dashboard**  
-https://dashboardapple.vercel.app    
-→ Interactive dashboard with simulated sales data, focused on data visualization and user experience.
-
-
-🔗 **Inova Infotech**  
-https://inovainfotech.com.br/  
-→ Digital product (eBook) sales page.
-
-
+**Inova Infotech** — [inovainfotech.com.br](https://inovainfotech.com.br/)  
+Página de vendas de produto digital.
 
 ---
 
-## 🧠 Tech Stack
+### Stack
 
-### 👩‍💻 Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,dart,python" />
 </p>
-
-### ⚙️ Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,flutter,vue,nodejs,express" />
 </p>
-
-### 🎨 Styling
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
 </p>
-
-### 🗄️ Database & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postman,git" />
 </p>
-
-### 📊 Data & BI
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat" />
   <img src="https://img.shields.io/badge/DAX-0C3C78?style=flat&logo=microsoft&logoColor=white" />
@@ -96,15 +73,15 @@ https://inovainfotech.com.br/
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat" />
 </p>
 
+---
 
+### Contato
 
-## 📫 Contact Me
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/ericacomc/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:ribeiroericacomc@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
@@ -113,7 +90,5 @@ https://inovainfotech.com.br/
 ---
 
 <div align="center">
-
-✨ Always learning, building, and improving.
-
+  <sub>Sempre aprendendo, construindo e evoluindo.</sub>
 </div>
