@@ -11,13 +11,13 @@ Desenvolvimento Web · Mobile · Dados
 
 ### Sobre mim
 
-Graduada em Análise e Desenvolvimento de Sistemas, atuo no desenvolvimento de aplicações web e mobile modernas e em testes de software.
+Graduada em Análise e Desenvolvimento de Sistemas, com foco em Análise de Dados, Business Intelligence e soluções voltadas à tomada de decisão.
 
-Tenho experiência com HTML, CSS, Tailwind, JavaScript, MySQL e integração de APIs, com projetos desenvolvidos em React.js, Node.js e Express.js. Utilizo Git para controle de versão e trabalho com metodologias ágeis como Scrum e Kanban.
+Tenho desenvolvido continuamente minhas habilidades em dados, aplicando Power BI (Desktop e Service), Power Query e Metabase para transformar, modelar e apresentar informações de forma clara, estratégica e eficiente. Atuo em projetos com SQL, DAX, ETL, integração com APIs, bancos de dados e Power Automate, garantindo automação de processos, atualização de dashboards e distribuição inteligente de relatórios.
 
-Na área de qualidade, atuo com testes manuais e automatizados usando Jest e Cypress, com práticas de QA e validação utilizando Eclipse IDE.
+Também utilizo Python para análise de dados, manipulação de dataframes, automação de rotinas e geração de gráficos, fortalecendo análises estratégicas por meio de soluções analíticas dinâmicas e inteligentes. 
 
-Desenvolvo continuamente minhas habilidades em Análise de Dados, trabalhando com Power BI, Power Query e Metabase para transformar e apresentar dados com eficiência. Tenho experiência com SQL, DAX, ETL, Power Automate e Python para análise e visualização de dados.
+Além disso, possuo experiência complementar em desenvolvimento web, versionamento com Git, metodologias ágeis (Scrum e Kanban) e testes manuais e automatizados (Jest e Cypress).
 
 ---
 
