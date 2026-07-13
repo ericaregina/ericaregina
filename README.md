@@ -32,7 +32,7 @@ Testes manuais e automatizados com Jest e Cypress
 Práticas de QA e validação de testes
 
 **Dados & Analytics**  
-Power BI · Power Query · Metabase · SQL · DAX · ETL · Python
+Power BI · Power Query · Metabase · SQL · DAX · ETL · Python · Apache Superset
 
 ---
 
