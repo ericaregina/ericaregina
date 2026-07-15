@@ -54,37 +54,38 @@ Trabalho o fluxo de dados de ponta a ponta — da extração e modelagem até a 
 
 ###  Analista de Dados RevOps — Paytrack
 **SaaS B2B · Gestão de Viagens Corporativas e Despesas**
-
+ 
 Atuei nos módulos de **Cartão Corporativo**, **Reembolso**, **Adiantamento** e **Gestão de Viagens**.
-
+ 
 Logo nas minhas primeiras duas semanas, entreguei um dashboard de **GMV/TPV** no Apache Superset, um dashboard de **métricas temporais** e uma tabela operacional de acompanhamento de **MRR e churn**. Trabalhei diariamente com **ClickHouse SQL**, **Power BI** e **Apache Superset** para construir e manter dashboards, sempre em colaboração direta com o time de engenharia de dados.
-
+ 
 Me aprofundei em métricas de negócio SaaS — **MRR, churn, LTV, take rate, card rebate** e a diferença entre **GMV** e **TPV** — aplicando esses conceitos ao contexto real da empresa. Para acelerar meu próprio aprendizado, criei materiais de referência como cheatsheets de **SQL, DAX e Excel**, além de guias de onboarding.
-
+ 
 `ClickHouse SQL` `Power BI` `Apache Superset` `SaaS Metrics` `Documentação técnica`
-
-</td>
-</tr>
-
-<tr>
-<td width="100%">
-
-###  Analista de Sistemas e Dados — ASV
-
-Desenvolvi minhas habilidades em Análise de Dados, atuando na transformação de dados em **insights estratégicos** para o negócio. Trabalhei com **Power BI (Desktop e Service)**, **Power Query** e **Metabase** na construção de dashboards interativos e na modelagem de dados, utilizando **SQL** e **DAX** para garantir análises consistentes e eficientes.
-
-Tenho experiência com processos de **ETL**, integração de dados via **APIs** e manipulação de bancos de dados, assegurando qualidade e confiabilidade das informações ao longo de todo o fluxo.
-
-Atuei no desenvolvimento de dashboards **end-to-end** — da coleta e tratamento dos dados até a construção de visualizações e publicação. Como exemplo de projeto, realizei a extração e integração de dados de um sistema **ERP** e do **GLPI**, estruturando o fluxo de dados e desenvolvendo dashboards completos para análise e acompanhamento de indicadores.
-
-Também trabalho com automação de processos e relatórios utilizando **Power Automate** e automações simples com **n8n**, focadas na integração de dados e otimização de rotinas. Tenho vivência na comunicação com stakeholders, traduzindo necessidades de negócio em soluções orientadas a dados.
-
-`Power BI` `Power Query` `Metabase` `ETL` `APIs` `Power Automate` `n8n`
-
+ 
 </td>
 </tr>
 </table>
-
+<br>
+<table>
+<tr>
+<td width="100%">
+  
+###  Analista de Sistemas e Dados — ASV
+ 
+Desenvolvi minhas habilidades em Análise de Dados, atuando na transformação de dados em **insights estratégicos** para o negócio. Trabalhei com **Power BI (Desktop e Service)**, **Power Query** e **Metabase** na construção de dashboards interativos e na modelagem de dados, utilizando **SQL** e **DAX** para garantir análises consistentes e eficientes.
+ 
+Tenho experiência com processos de **ETL**, integração de dados via **APIs** e manipulação de bancos de dados, assegurando qualidade e confiabilidade das informações ao longo de todo o fluxo.
+ 
+Atuei no desenvolvimento de dashboards **end-to-end** — da coleta e tratamento dos dados até a construção de visualizações e publicação. Como exemplo de projeto, realizei a extração e integração de dados de um sistema **ERP** e do **GLPI**, estruturando o fluxo de dados e desenvolvendo dashboards completos para análise e acompanhamento de indicadores.
+ 
+Também trabalho com automação de processos e relatórios utilizando **Power Automate** e automações simples com **n8n**, focadas na integração de dados e otimização de rotinas. Tenho vivência na comunicação com stakeholders, traduzindo necessidades de negócio em soluções orientadas a dados.
+ 
+`Power BI` `Power Query` `Metabase` `ETL` `APIs` `Power Automate` `n8n`
+ 
+</td>
+</tr>
+</table>
 <br>
 
 ##  Projetos de Dados
@@ -93,7 +94,7 @@ Também trabalho com automação de processos e relatórios utilizando **Power A
 <tr>
 <td width="50%">
 
-** [Análise de Despesas Corporativas](https://github.com/SEU_USUARIO/analise-despesas-corporativas)**
+**[Análise de Despesas Corporativas](https://github.com/SEU_USUARIO/analise-despesas-corporativas)**
 
 Projeto completo em Python simulando um cenário real de Travel & Expense: geração de dataset bruto com problemas propositais de qualidade, tratamento documentado por regra de negócio e análise exploratória com visualizações.
 
@@ -102,7 +103,7 @@ Projeto completo em Python simulando um cenário real de Travel & Expense: gera�
 </td>
 <td width="50%">
 
-** [Indicadores em Python](https://github.com/SEU_USUARIO/indicadores_python)**
+**[Indicadores em Python](https://github.com/SEU_USUARIO/indicadores_python)**
 
 Análises de compliance de despesas corporativas com visualizações em Python, iteradas e compartilhadas em formato de estudo de caso.
 
@@ -133,5 +134,5 @@ Análises de compliance de despesas corporativas com visualizações em Python, 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0C3C78&height=100&section=footer" width="100%"/>
 
-<sub>Sempre aprendendo, construindo e evoluindo. ✨</sub>
+<sub>Sempre aprendendo, construindo e evoluindo.</sub>
 </div>
